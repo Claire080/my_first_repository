@@ -1,4 +1,4 @@
-#conjecture de sycarus
+#conjecture de sycarus.
 
 def sycarus(n):
     L=[n]
