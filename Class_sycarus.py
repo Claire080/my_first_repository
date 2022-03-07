@@ -1,6 +1,6 @@
 class Sycarus:
     
-    def _init_(self,m):
+    def __init__(self,m):
         self.n=m #liste contenant la suite de sycarus.
 
     def get(self):
